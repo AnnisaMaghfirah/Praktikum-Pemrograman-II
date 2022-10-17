@@ -23,7 +23,7 @@ public class Mobil {
     
     int getPajak() {
         this.harga = this.harga * 2/100;
-        //Mengembalikan Nilai dari Pajak
+        //Mengembalikan Nilai dari Harga
         return this.harga;
     }
     
